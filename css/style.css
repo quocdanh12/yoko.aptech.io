@@ -112,7 +112,7 @@ footer{
     animation: change 2s ease infinite;
 }
 .move{
-    animation: moving 2s ease-in-out;
+    animation: moving 4s ease-in-out;
 }
 
 @keyframes moving{
